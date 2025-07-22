@@ -1,0 +1,8 @@
+{
+  "name": "Q8Stream",
+  "description": "مزود أبو علي الخاص",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/q8solari/Q8Stream/main/plugins.json"
+  ]
+}
