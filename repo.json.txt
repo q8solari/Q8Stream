@@ -1,0 +1,3 @@
+[
+  "https://github.com/q8solari/Q8Stream/raw/refs/heads/main/Anime4up.zip"
+]
