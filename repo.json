@@ -1,8 +1,3 @@
-{
-  "name": "Q8Stream",
-  "description": "مزود أبو علي الخاص",
-  "manifestVersion": 1,
-  "pluginLists": [
-    "https://raw.githubusercontent.com/q8solari/Q8Stream/main/plugins.json"
-  ]
-}
+[
+  "https://github.com/q8solari/Q8Stream/raw/refs/heads/main/Anime4up.zip"
+]
